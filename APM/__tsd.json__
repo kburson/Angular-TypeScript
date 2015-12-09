@@ -1,0 +1,195 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angular-material/angular-material.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angular-protractor/angular-protractor.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "selenium-webdriver/selenium-webdriver.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angular-spinner/angular-spinner.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angular-storage/angular-storage.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angular-translate/angular-translate.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "bardjs/bardjs.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "chai/chai.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "chai-as-promised/chai-as-promised.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "promises-a-plus/promises-a-plus.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "colors/colors.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-less/gulp-less.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "node/node.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-mocha/gulp-mocha.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-load-plugins/gulp-load-plugins.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-inject/gulp-inject.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "vinyl/vinyl.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-if/gulp-if.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-newer/gulp-newer.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-ng-annotate/gulp-ng-annotate.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-plumber/gulp-plumber.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-rename/gulp-rename.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-replace/gulp-replace.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-sourcemaps/gulp-sourcemaps.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-babel/gulp-babel.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-concat/gulp-concat.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-debug/gulp-debug.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-flatten/gulp-flatten.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-shell/gulp-shell.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-util/gulp-util.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "chalk/chalk.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "through2/through2.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-watch/gulp-watch.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "log4js/log4js.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "karma/karma.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "express/express.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "mime/mime.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "less/less.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "moment/moment.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "ng-dialog/ng-dialog.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-tslint/gulp-tslint.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-uglify/gulp-uglify.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-typescript/gulp-typescript.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "gulp-typedoc/gulp-typedoc.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "lodash-decorators/lodash-decorators.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "pickadate/pickadate.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "sinon/sinon.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "sinon-chai/sinon-chai.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "sprintf/sprintf.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "systemjs/systemjs.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    },
+    "angularjs/angular-sanitize.d.ts": {
+      "commit": "c3ab375b371b7b4204adee3b1209baecd81cec02"
+    }
+  }
+}
