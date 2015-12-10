@@ -1,7 +1,5 @@
-
+/*
 module app.common {
-
-    console.log("define module - 'productResourceMock'");
 
     var mockResource = angular
         .module("productResourceMock",
@@ -70,3 +68,4 @@ module app.common {
         $httpBackend.whenGET(/app\/.*/).passThrough();
     }
 }
+*/
