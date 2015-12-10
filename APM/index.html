@@ -9,6 +9,7 @@
 </head>
 
 <body ng-app="productManagement">
+
     <nav class="navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -18,7 +19,7 @@
     </nav>
 
     <div class="container">
-        <div ng-include="'app/products/productListView.html'"></div>
+        <ng-view></ng-view>
     </div>
 
     <!-- Library Scripts -->
@@ -38,9 +39,9 @@
     <script src="app/common/services/dataAccessService.js"></script>
     <script src="app/common/services/productResourceMock.js"></script>
 
-
     <!-- Controllers -->
     <script src="app/products/productListCtrl.js"></script>
+    <script src="app/products/productDetailCtrl.js"></script>
 
 </body>
 
